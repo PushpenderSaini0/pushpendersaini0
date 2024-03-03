@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Go
+- 💬 Ask me about React,NextJS
+
+
 <br>
 
-<img align="left" alt="Pushpender Saini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pushpendersaini0&theme=radical&show_icons=true&hide_border=true" />
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=pushpendersaini0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
